@@ -9,5 +9,5 @@ Step 4: Open the program and select the folder and let the program do its work
 
 Note: You might need to adjust the size of your window to make sure you can see all the images  
       Image supported formats: ('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp')  
-      Be aware that your images will be shrunk to fit the grid so the resolution might be worse.
+      Be aware that your images will be shrunk to fit the grid so the resolution of the image might be worse compared to the original.
       
